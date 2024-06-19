@@ -1,6 +1,6 @@
 # Typing Speed Test App
 
-This is a simple Typing Speed Test application built with Python. It allows users to measure their typing speed in words per minute (WPM) by timing their typing session and counting the number of words typed.
+This is a simple Typing Speed Test application built with Python and Tkinter. It allows users to measure their typing speed in words per minute (WPM) by timing their typing session and counting the number of words typed.
 
 ## Features
 
@@ -31,7 +31,10 @@ Python is required to run this application. If you don't have Python installed, 
      python --version
      ```
    - You should see the installed Python version.
-     
+
+### Tkinter
+
+- Tkinter comes pre-installed with Python and does not require extra installation.
 
 ## Installation
 
@@ -53,11 +56,11 @@ Python is required to run this application. If you don't have Python installed, 
 
 ### Start typing
 
-- Run the application and press Enter to start typing.
+- Run the application and press the "Start Typing" button to begin your typing session.
 
 ### Finish Typing
 
-- Press Enter twice to end your typing session.
+- Press the "Finish" button to end your typing session.
 
 ### View Results
 
