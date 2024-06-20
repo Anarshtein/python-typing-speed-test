@@ -64,7 +64,7 @@ Python is required to run this application. If you don't have Python installed, 
 
 ### View Results
 
-- The application will display the total time spent, the total number of words typed, and your typing speed in words per minute (WPM).
+- The application will display the total time spent, the total number of words typed, your typing speed in words per minute (WPM), and some explanation based on your results.
 
 ## Project Structure
 ```bash
